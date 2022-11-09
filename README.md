@@ -11,7 +11,7 @@
 ## Built With
 
 - Rails
-- Webpack
+- API
 
 ## Getting Started
 
@@ -19,20 +19,20 @@
 
 ```bash
 $ git clone git@github.com:Favourezeugwa/hello-rails-back-end.git
-$ cd hello-rails-backend
+$ cd hello-rails-back-end
 ```
 
 ### Run project
 
 ```bash
-$ foreman start
+$ rails server
 
 ```
 
 ### Open page in browser
 
 ```bash
-$ http://localhost:3000/
+$ http://localhost:3001/
 ```
 
 ## Authors
