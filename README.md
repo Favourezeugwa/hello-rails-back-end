@@ -6,6 +6,8 @@
 
 ## Overview
 
+[Link to react-frontend app](https://github.com/Favourezeugwa/hello-react-front-end)
+
 ## Built With
 
 - Rails
